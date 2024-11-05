@@ -8,3 +8,4 @@ pyinstaller --onefile main.py
 python -m venv myenv
 myenv\Scripts\activate
 deactivate
+"# post-office-list-printing-app" 
